@@ -9,15 +9,13 @@
     "license": "BSD-3-Clause",
     "include-path": ["src/"],
     "version": "1.0.0",
-    "require": {
-        "laravel/framework": "4.1.*",
-    },
     "autoload": {
         "psr-0": {
             "Zend": "src/"
         }
     },
     "require": {
+        "laravel/framework": "4.1.*",
         "php": ">=5.3.3"
     }
 }
