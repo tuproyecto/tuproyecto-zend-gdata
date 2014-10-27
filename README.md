@@ -4,7 +4,7 @@ Contains Google package and include statements are commented.
 
 ## Install composer
 
-- "tuproyecto/tuproyecto-zend-gdata": "1.*"
+	"tuproyecto/tuproyecto-zend-gdata": "1.*"
 
 ## About Zend Framework
 
