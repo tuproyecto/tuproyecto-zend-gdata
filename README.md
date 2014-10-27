@@ -2,10 +2,18 @@
 
 Contains Google package and include statements are commented.
 
-## Setup
+## Install composer
 
   1. Run `php composer.phar require webino/zf1-gdata:1.*`
+  
+  "require": {
+    "tuproyecto/tuproyecto-zend-gdata": "1.*"
+  }
 
 ## About Zend Framework
 
 - homepage: http://framework.zend.com/
+
+## About Tuproyecyo
+
+- homepage: http://tuproyecto.com/
