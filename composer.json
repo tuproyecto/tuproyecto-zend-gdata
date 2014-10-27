@@ -3,11 +3,12 @@
     "description": "Gdata from Zend Framework 1.12.1",
     "type": "library",
     "keywords": [
-        "framework", "zf1", "gdata"
+        "framework", "tuproyecto", "gdata"
     ],
     "homepage": "http://framework.zend.com/",
     "license": "BSD-3-Clause",
     "include-path": ["src/"],
+    "version": "1.0.0",
     "autoload": {
         "psr-0": {
             "Zend": "src/"
