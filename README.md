@@ -10,6 +10,6 @@ Contains Google package and include statements are commented.
 
 - homepage: http://framework.zend.com/
 
-## About Tuproyecyo
+## About Tuproyecto
 
 - homepage: http://tuproyecto.com/
